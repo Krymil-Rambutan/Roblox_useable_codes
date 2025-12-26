@@ -6,3 +6,10 @@ This folder will contain modular tycoon-related scripts:
 - Unlock systems
 
 Work in progress.
+
+Included systems:
+- Currency module
+- Automatic income generator
+- Rebirth & multiplier system
+
+These scripts are modular and designed for tycoon-style games.
